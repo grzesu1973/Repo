@@ -1,3 +1,5 @@
 Pierwsze zajęcia z oprogramowaniem git
 Piersza zmiana
 kolejna
+
+tu znów kolejna zmiana dodana linia
