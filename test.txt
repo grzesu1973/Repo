@@ -1,2 +1,2 @@
 Pierwsze zajęcia z oprogramowaniem git
-
+Piersza zmiana
