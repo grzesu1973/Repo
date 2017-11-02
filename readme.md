@@ -1,4 +1,4 @@
-# Podstawy Programowania
+# Podstawy Programowania - utworzenie repozytorium
 
 
 ### 1) Środowisko pracy
