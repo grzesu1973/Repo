@@ -11,7 +11,7 @@
 
 ```
 $ cd Pulpit				/przejście do katalogu pulpitu/
-$ mkdir Repo			/utworzenie katalogu Repo/
+$ mkdir Repo			 /utworzenie katalogu Repo/
 $ cd Repo				/przejście do katalogu Repo/		
 ```
 
